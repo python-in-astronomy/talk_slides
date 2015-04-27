@@ -1,3 +1,5 @@
-Edit this file to add your link here.
+Day 4 talks from Python in Astronomy
 
-https://speakerdeck.com/rjsmethurst/starpy
+[R. Smethurst, starpy](https://speakerdeck.com/rjsmethurst/starpy)
+
+[S. Mumford, SunPy](http://stuartmumford.co.uk/talks/pia)
